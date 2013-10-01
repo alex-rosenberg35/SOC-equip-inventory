@@ -2,6 +2,7 @@ SOC-equip-inventory
 ===================
 
 HU SOC Equipment Inventory System
+
 Hofstra School of Communication
 
 > What you should do (consider this an assignment) create a front end in PHP for students/users to authenticate and see the classes for which they are entered.  Some students are registered for multiple classes.  If the student is registered for a single class the student should only see that class listed.  If the student is registered for more than one class the student will see a drop down list from which the correct class will be selected.
@@ -15,9 +16,9 @@ Hofstra School of Communication
 
 Tasks
 -----
- - [x] Create Database Schema
- - [ ] Create UML Class Diagram
- - [ ] Prepare basic user authentication system
- - [ ] Design the user login frontend
- - [ ] Design the admin backend
+ - Create Database Schema
+ - Create UML Class Diagram
+ - Prepare basic user authentication system
+ - Design the user login frontend
+ - Design the admin backend
 
