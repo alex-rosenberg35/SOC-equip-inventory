@@ -13,9 +13,10 @@ For next week:
  2. Evaluate the code you developed.
  3. Alex will demonstrate how we can use session based authentication, e.e., using the authentication against one system to gain access to another.
 
-== Tasks ==
- -- Create UML Class Diagram
- -- Prepare basic user authentication system
- -- Design the user login frontend
- -- Design the admin backend
+Tasks
+=====
+ - [ ] Create UML Class Diagram
+ - [ ] Prepare basic user authentication system
+ - [ ] Design the user login frontend
+ - [ ] Design the admin backend
 
