@@ -12,8 +12,8 @@ For next week:
  1. Propose a project management system for evaluation. 
  2. Evaluate the code you developed.
  3. Alex will demonstrate how we can use session based authentication, e.e., using the authentication against one system to gain access to another.
-
-== Tasks ==
+ 
+ == Tasks ==
  -- Create UML Class Diagram
  -- Prepare basic user authentication system
  -- Design the user login frontend
