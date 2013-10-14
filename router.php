@@ -1,4 +1,9 @@
 <?php
+/**
+ * This script is responsible to directing
+ * user requests to the correct controller.
+ */
+
 // Automatically includes files containing classes that are called
 function __autoload($className)
 {
